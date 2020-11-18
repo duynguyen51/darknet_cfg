@@ -1,0 +1,5 @@
+classes = 7
+train  = data/train_traffic_2.txt
+valid  = data/val_traffic_2.txt
+names = data/traffic_2.names
+backup = backup/traffic_2
