@@ -1,5 +1,5 @@
 classes = 1
-train  = data/train_traffic_1.txt
-valid  = data/val_traffic_1.txt
-names = data/traffic_1.names
-backup = backup/traffic_1
+train  = darknet_cfg/data/train_traffic_1.txt
+valid  = darknet_cfg/data/val_traffic_1.txt
+names = darknet_cfg/data/traffic_1.names
+backup = darknet_cfg/backup/traffic_1
